@@ -18,7 +18,7 @@ EVI$ION x 한화비전 스터디 및 프로젝트 C · C++ · Qt · Linux · Ras
 | 1 | **동영상 수강**: 깃허브 모르면 바이브코딩 못합니다 \| 비개발자를 위한 깃허브 설명 |
 | 2 | **동영상 수강**: (유노코딩) 깃과 깃허브가 처음인 당신에게 (8개) |
 | 3 | **Git 실습**: [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)<br>· main: git 기본 1, 2, 3, 4<br>· main: 다음 단계로 1<br>· 원격 (전부) |
-| 4 | **GitHub 실습**: 레포지토리 만들기 | <br>· 아래의 레포지토리 클론하기 (https://github.com/chohyunKANG/Evision-HV/)<br>· 클론한 레포지토리에서 브랜치 만들기<br>· 커밋하기<br>· 다른 브랜치와 병합하기<br>· 메인에 푸시하기
+| 4 | **GitHub 실습**: 레포지토리 만들기 | <br>· 아래의 레포지토리 클론하기 (https://github.com/chohyunKANG/Evision-HV/)<br>· 클론한 레포지토리에서 브랜치 만들기<br>· 커밋하기<br>· 다른 브랜치와 병합하기<br>· 메인에 푸시하기 |
 | 5 | **최종 실습**: VSCode(또는 본인이 쓰는 에디터)와 git을 연결해 로컬에서 commit / push / merge 해 보기 |
 
 ---
